@@ -1,0 +1,18 @@
+{
+  "name": "lab-9-submission",
+  "version": "1.0.0",
+  "description": "Lab-9 work for http5201, Winter 2021, Humber College.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jalaluddin Qureshi",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0"
+  }
+}

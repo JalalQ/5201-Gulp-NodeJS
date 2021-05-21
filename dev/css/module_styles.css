@@ -1,0 +1,21 @@
+/*SASS FOR CUSTOM MODULE*/
+/*15*/
+/*30*/
+#custom-module {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  border: solid 5px green;
+  border-radius: 15px;
+  background: #bfffcf;
+  color: #000;
+  padding: 8px; }
+
+#custom-module q {
+  font-style: italic;
+  font-size: 1.5em; }
+
+#custom-module #author {
+  margin: 5px;
+  padding: 0px;
+  font-weight: bold; }

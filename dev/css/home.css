@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+#home__head {
+	margin-left: 30px;
+	color: #ffbf00;/*## 2. 664d00 */
+}
+#home_art{
+	width: 80%;
+	margin: 0 auto;
+}
